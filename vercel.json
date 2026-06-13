@@ -1,8 +1,6 @@
 {
   "version": 2,
   "framework": "flutter",
-  "buildCommand": "flutter build web --release",
-  "outputDirectory": "build/web",
   "routes": [
     {
       "src": "/(.*)",
